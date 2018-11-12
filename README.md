@@ -1,2 +1,2 @@
 # Pool
-Pool game with rotation 
+Pool game with rotation calculations
